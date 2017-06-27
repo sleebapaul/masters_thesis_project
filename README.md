@@ -46,7 +46,7 @@ In this thesis, Islanding and Power Quality(PQ) Issues in Hybrid Distributed Gen
 | 1.225   | 0.025061 | 0.012793 | 0.20666  | 0.146597 | Non-Linear Load Switch |
 | 1.435   | 0.025036 | 0.012789 | 0.206452 | 0.146566 | Non-Linear Load Switch |
 
-3. Using Python GUI, consume the web service as a  `POST` request to predict the states of the system (as mentioned above)
+5. Using Python GUI, consume the web service as a  `POST` request to predict the states of the system (as mentioned above)
     - Python GUI can be with `gui_and_azure_api_consumption.py`
 
 ### Microsoft Azure Web Service Architecture
