@@ -7,8 +7,8 @@ M. Tech. Thesis Project on " Detection and Identification of Hybrid Distribution
 --------------
 In this thesis, Islanding and Power Quality(PQ) Issues in Hybrid Distributed Generation (DG) System consists of Photovoltaic(PV) system and Wind Power Plant connected to grid through a Point of Common Coupling(PCC), are detected and classified, using Wavelet Transform and Artificial Neural Networks. Wavelet Transform indices are extracted from the Negative Sequence component of the voltage signal at PCC to detect the disturbances. A feature vector is modeled with WT indices and loading of DG system to train Artificial Neural Network. . The proposed method is compared with a conventional method. The results demonstrate the advantages of Wavelet over conventional method in detection and classification of disturbances in the system and robustness in application of Machine Learning (ML) Classifier. The trained ANN is deployed as a Web Service using Microsoft Azure Machine Learning Studio. It enhances the implementation feasibility of proposed method.
 
-###  Hybrid Distributed Generation
-----------------------------------
+###  Hybrid Distributed Generation System
+-----------------------------------------
 ![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/files/hybrid_system.png "Hybrid DG System")
 
 ### Simulation Diagram in MATLAB Simulink
