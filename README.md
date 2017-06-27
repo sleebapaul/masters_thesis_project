@@ -15,11 +15,11 @@ In this thesis, Islanding and Power Quality(PQ) Issues in Hybrid Distributed Gen
 
 ###  Hybrid Distributed Generation System
 -----------------------------------------
-![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/files/hybrid_system.png "Hybrid DG System")
+![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/image_files/hybrid_system.png "Hybrid DG System")
 
 ### Simulation Diagram in MATLAB Simulink
 -----------------------------------------
-![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/files/simulation_diagram.png "Simulation Diagram")
+![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/image_files/simulation_diagram.png "Simulation Diagram")
 
 ### Work Flow
 -------------
@@ -57,16 +57,16 @@ In this thesis, Islanding and Power Quality(PQ) Issues in Hybrid Distributed Gen
 
 ### Microsoft Azure Web Service Architecture
 --------------------------------------------
-![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/files/experiment.PNG "ML Experiment")
+![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/image_files/experiment.PNG "ML Experiment")
 
-![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/files/prediction.png "Web Service")
+![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/image_files/prediction.png "Web Service")
 
 ### Python GUI
 --------------
 
-![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/files/pic1.png "Before")
+![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/image_files/pic1.png "Before")
 
-![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/files/pic2.png "after")
+![Alt text](https://github.com/sleebapaul/M.Tech-Thesis-Project/blob/master/image_files/pic2.png "after")
 
 
 
