@@ -9,7 +9,7 @@ In this thesis, Islanding and Power Quality(PQ) Issues in Hybrid Distributed Gen
 
 ###  Hybrid Distributed Generation
 ----------------------------------
-![Alt text](https://github.com/sleebapaul/sentiment_analysis_take_off_movie/blob/master/movie_poster.jpg "Hybrid DG System")
+![Alt text](M.Tech-Thesis-Project/files/hybrid_system.png "Hybrid DG System")
 
 ### Simulation Diagram in MATLAB Simulink
 -----------------------------------------
