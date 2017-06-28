@@ -31,6 +31,7 @@ In this thesis, Islanding and Power Quality(PQ) Issues in Hybrid Distributed Gen
     - L-G Fault
     - Nonlinear Load Switch
 2. From negative sequence voltage at PCC during these events, extract the following features
+    - Loading of DG 
     - Standard Deviation of detail coefficients of Wavelet Transform of negative sequence voltage signal at level 3 (`SD3`)
     - Standard Deviation of detail coefficients of Wavelet Transform of negative sequence voltage signal at level 4 (`SD4`)
     - Energy content of detail coefficients of Wavelet Transform of negative sequence voltage signal at level 3 (`E3`)
